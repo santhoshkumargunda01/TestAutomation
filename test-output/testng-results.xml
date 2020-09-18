@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24942" started-at="2020-09-18T04:54:54Z" finished-at="2020-09-18T04:55:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24942" started-at="2020-09-18T04:54:54Z" finished-at="2020-09-18T04:55:18Z">
+      <class name="BDD.VenuetizeDemo.CompleteOrder">
+        <test-method status="PASS" signature="getTokenDetails()[pri:0, instance:BDD.VenuetizeDemo.CompleteOrder@59f99ea]" name="getTokenDetails" duration-ms="5106" started-at="2020-09-18T04:54:54Z" finished-at="2020-09-18T04:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTokenDetails -->
+        <test-method status="PASS" signature="getVendorProducts()[pri:1, instance:BDD.VenuetizeDemo.CompleteOrder@59f99ea]" name="getVendorProducts" duration-ms="522" started-at="2020-09-18T04:54:59Z" finished-at="2020-09-18T04:54:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getVendorProducts -->
+        <test-method status="PASS" signature="createCart()[pri:2, instance:BDD.VenuetizeDemo.CompleteOrder@59f99ea]" name="createCart" duration-ms="1064" started-at="2020-09-18T04:54:59Z" finished-at="2020-09-18T04:55:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCart -->
+        <test-method status="PASS" signature="fetchUserWallet()[pri:3, instance:BDD.VenuetizeDemo.CompleteOrder@59f99ea]" name="fetchUserWallet" duration-ms="3107" started-at="2020-09-18T04:55:00Z" finished-at="2020-09-18T04:55:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchUserWallet -->
+        <test-method status="PASS" signature="checkoutInfo()[pri:4, instance:BDD.VenuetizeDemo.CompleteOrder@59f99ea]" name="checkoutInfo" duration-ms="4973" started-at="2020-09-18T04:55:03Z" finished-at="2020-09-18T04:55:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutInfo -->
+        <test-method status="PASS" signature="placeOrderV2()[pri:5, instance:BDD.VenuetizeDemo.CompleteOrder@59f99ea]" name="placeOrderV2" duration-ms="10033" started-at="2020-09-18T04:55:08Z" finished-at="2020-09-18T04:55:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrderV2 -->
+      </class> <!-- BDD.VenuetizeDemo.CompleteOrder -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
